@@ -69,7 +69,6 @@
       "dom.disable_window_move_resize": true,
       "dom.event.contextmenu.enabled": false,
       "network.IDN_show_punycode": false,
-      "network.dns.disableIPv6": true,
       "places.history.enabled": true,
       "privacy.file_unique_origin": true
     },
